@@ -324,4 +324,13 @@ footer {
 .contact-containe-s {
     width: 50%;
 }
-
+.svg-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.svg-class {
+    height: 40px;
+    width: 40px;
+}
